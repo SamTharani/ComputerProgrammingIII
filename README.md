@@ -27,3 +27,13 @@ Command modified by the Physical Science group
 
 =====================================
 =====================================
+
+Git branch Commands
+====================
+git branch [branchname] = create branch
+git checkout [branchname] = change to a specific branch
+git branch - list branches in the project
+git merge [branch name] = merge the changes of the branch
+git branch -d [branch name] = delete the branch
+
+===========================================
