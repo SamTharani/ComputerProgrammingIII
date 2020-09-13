@@ -21,7 +21,9 @@ Configure username and password
 git config --global user.name githubusername
 git config --global user.password githubpassword
 
-
+Create branch to famialrise with git branch commands
+====================================================
+Command modified by the Physical Science group
 
 =====================================
 =====================================
