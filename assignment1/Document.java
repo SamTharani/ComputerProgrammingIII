@@ -20,18 +20,18 @@ public class Document
 	}
 	public String getId()
 	{
-		
+		return id;
 	}
 	public String getName()
 	{
-		
+		return name;
 	}
 	public String getContent()
 	{
-		
+		return content;
 	}
 	public String getExtension()
 	{
-		
+		return extension;
 	}
 }
