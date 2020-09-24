@@ -7,4 +7,9 @@ public class example
 	{
 		return number;
 	}
+
+	public String getDescription()
+	{
+		return description;
+	}
 }	
